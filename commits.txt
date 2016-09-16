@@ -1,0 +1,17 @@
+commit 921bee2290fdc63e06156af2af01488dc2eff39d
+Author: Claudio <claudio.consuegra@gmail.com>
+Date:   Fri Sep 16 18:51:40 2016 +0000
+
+    modifique el titulo de pagina
+
+commit ea7ef6c0f7befaa157bea2ac56f9ece646013ca3
+Author: Claudio <claudio.consuegra@gmail.com>
+Date:   Fri Sep 16 18:35:45 2016 +0000
+
+    modifique texto en la pagina
+
+commit 9aa41102963e9f17a273f360051dff1be3ffdfbd
+Author: Claudio <claudio.consuegra@gmail.com>
+Date:   Fri Sep 16 18:24:53 2016 +0000
+
+    iniciando
